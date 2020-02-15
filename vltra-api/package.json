@@ -24,7 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "vltra-data": "file:../vltra-data",
     "vltra-utils": "file:../vltra-utils",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
